@@ -1,0 +1,5 @@
+.venv
+notebooks/.ipynb_checkpoints
+**/__pycache__/*.pyc
+*.egg-info/
+result*
